@@ -1,24 +1,5 @@
-# README
+# User Stories
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- As a user I can see one garden's plants.
+- As a user I can add a plant to a garden.
+- As a user I can delete a plant.
